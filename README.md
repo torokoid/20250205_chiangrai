@@ -147,7 +147,7 @@ p.note { display: none; }
 <a href="20250205_008.JPG" target="_blank"><img src="20250205_008.JPG" alt="サンプル画像" width="900" /></a>
     
     
-<h2><span class="yellow">お昼の後はメーチャンの街役場で納税の手続き<br>中心部ロータリーの神棚は相変わらず綺麗</span></h2>
+<h2><span class="yellow">お昼の後はメーチャンの街役場で計算ミスを見つけた納税書類の訂正クレーム<br>さすがタイですが中心部ロータリーの神棚は相変わらず綺麗</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1738806671386!6m8!1m7!1syRme8n-7fLLNWRrMa18bnA!2m2!1d20.14709936395623!2d99.85342579220736!3f279.0465645332458!4f1.508504081393923!5f2.475319827315543" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
 
@@ -232,7 +232,7 @@ p.note { display: none; }
 <h2><span class="yellow">最後になりましたが、夜明け前の北斗七星と春の大曲線 朝04:08</span></h2>
 <a href="20250205_038.JPG" target="_blank"><img src="20250205_038.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">本来は波線の先の「シリウス」まで繋がって完成ですが、シリウスは雲の中でした</span></h2>
+<h2><span class="yellow">本来は波線の先の「シリウス」まで繋がって完成ですが、シリウスは雲の後ろで見えず</span></h2>
 <a href="20250205_039.JPG" target="_blank"><img src="20250205_039.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
