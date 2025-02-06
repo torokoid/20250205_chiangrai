@@ -231,6 +231,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">最後になりましたが、夜明け前の北斗七星と春の大曲線 朝04:08</span></h2>
 <a href="20250205_038.JPG" target="_blank"><img src="20250205_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">本来は波線の先の「シリウス」まで繋がって完成ですが、シリウスは雲の中でした</span></h2>
 <a href="20250205_039.JPG" target="_blank"><img src="20250205_039.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
