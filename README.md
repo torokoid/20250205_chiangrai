@@ -148,7 +148,7 @@ p.note { display: none; }
     
     
 <h2><span class="yellow">お昼の後はメーチャンの街役場で納税の手続き<br>中心部ロータリーの神棚は相変わらず綺麗</span></h2>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1738761615165!6m8!1m7!1sdGbaWo4uOqTu5RMAxMJSLg!2m2!1d20.14705603485654!2d99.85340977872148!3f281.3669801598144!4f-10.444684564447812!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1738806671386!6m8!1m7!1syRme8n-7fLLNWRrMa18bnA!2m2!1d20.14709936395623!2d99.85342579220736!3f279.0465645332458!4f1.508504081393923!5f2.475319827315543" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
 
 
 <a href="20250205_009.JPG" target="_blank"><img src="20250205_009.JPG" alt="サンプル画像" width="900" /></a>
