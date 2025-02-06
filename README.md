@@ -224,7 +224,7 @@ p.note { display: none; }
 <h2><span class="yellow">夕方の空には半分まで欠けたお月様、月齢は6.7</span></h2>
 <a href="20250205_034.JPG" target="_blank"><img src="20250205_034.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">久々の夕焼けグラデーション、オレンジだけで終わりました</span></h2>
+<h2><span class="yellow">久々の夕焼けグラデーション、オレンジ気味で終わりました</span></h2>
 <a href="20250205_035.JPG" target="_blank"><img src="20250205_035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250205_036.JPG" target="_blank"><img src="20250205_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250205_037.JPG" target="_blank"><img src="20250205_037.JPG" alt="サンプル画像" width="900" /></a>
